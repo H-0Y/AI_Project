@@ -1,0 +1,73 @@
+Load net
+------training-------
+------training-------
+DQN Win time: 44/0-50
+------training-------
+------training-------
+------training-------
+DQN Win time: 44/50-100
+------training-------
+------training-------
+DQN Win time: 45/100-150
+------training-------
+------training-------
+------training-------
+DQN Win time: 46/150-200
+------training-------
+------training-------
+DQN Win time: 46/200-250
+------training-------
+------training-------
+------training-------
+DQN Win time: 43/250-300
+------training-------
+------training-------
+DQN Win time: 47/300-350
+------training-------
+------training-------
+------training-------
+DQN Win time: 46/350-400
+------training-------
+------training-------
+DQN Win time: 46/400-450
+------training-------
+------training-------
+------training-------
+DQN Win time: 45/450-500
+------training-------
+------training-------
+DQN Win time: 46/500-550
+------training-------
+------training-------
+------training-------
+DQN Win time: 46/550-600
+------training-------
+------training-------
+DQN Win time: 46/600-650
+------training-------
+------training-------
+------training-------
+DQN Win time: 46/650-700
+------training-------
+------training-------
+DQN Win time: 44/700-750
+------training-------
+------training-------
+------training-------
+DQN Win time: 48/750-800
+------training-------
+------training-------
+DQN Win time: 45/800-850
+------training-------
+------training-------
+------training-------
+DQN Win time: 45/850-900
+------training-------
+------training-------
+DQN Win time: 42/900-950
+------training-------
+------training-------
+------training-------
+DQN Win time: 44/950-1000
+model saved
+data saved
